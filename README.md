@@ -7,9 +7,12 @@
 
 *Приложите скриншот авторизации в админке.*
 *Приложите текст использованных команд в GitHub.*
-Устанавливаю Postgreql:
+
+1.Устанавливаю Postgreql:
 ```bash
 sudo apt update
+```
+```bash
 sudo apt -y install postgresql
 ```
 
